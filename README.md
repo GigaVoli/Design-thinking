@@ -3,7 +3,7 @@ This is a project to show the design thinking procces through a text-based-adven
 
 Start the project by downloading python at Python.org
 
-go to https://www.python.org/downloads/release/python-3119/ to get to the right version
+go to https://www.python.org/downloads/release/python-3119/ to get to the right version for windows, https://www.python.org/downloads/release/python-3119/ for linux, and https://www.python.org/downloads/release/python-3119/ for mac
 
 back to github: go to the big CODE button and press download zip
 
